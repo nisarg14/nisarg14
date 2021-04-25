@@ -4,7 +4,7 @@
 <h3 align="center">3rd Year BTech ICT student from Ahmedabad University</h3>
 
 
-<img align="center" class="image" src="./assets/2.png" >
+<img align="center" class="image" height="200px" src="./assets/2.png" >
 
 <br />
 <h3 align="left">Connect with me:</h3>
