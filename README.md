@@ -1,17 +1,18 @@
-<link rel="stylesheet" media="all" href="./assetes/readme.css"> 
+<link rel="stylesheet" media="all" href="./assets/readme.css"> 
 
 <h1 align="center">Hi 👋, I'm Nisarg</h1>
 <h3 align="center">3rd Year BTech ICT student from Ahmedabad University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarg14&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg14" /> </p>
-<img align="center" class="image" src="./assetes/2.png" >
-- 📫 How to reach me **nisarghthoroya@gmail.com**
+<img align="center" class="image" src="./assets/2.png" >
 
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/NisargThoriya" target="blank"><img align="center" src="./assetes/twitter-logo.svg" alt="ayush_kaneria" height="30" width="40" /></a> &nbsp;
-<a href="https://linkedin.com/in/nisarg-thoriya" target="blank"><img align="center" src="./assetes/linkedin-logo.svg" alt="ayush-kaneria" height="30" width="40" /></a> &nbsp;
-<a href="https://instagram.com/nisarg_thoriya" target="blank"><img align="center" src="./assetes/instagram.svg" alt="ayush_kaneria_11" height="30" width="40" /></a> &nbsp;
+<a href="https://twitter.com/NisargThoriya" target="blank"><img align="center" src="./assets/twitter-logo.svg" alt="ayush_kaneria" height="30" width="40" /></a> &nbsp;
+<a href="https://linkedin.com/in/nisarg-thoriya" target="blank"><img align="center" src="./assets/linkedin-logo.svg" alt="ayush-kaneria" height="30" width="40" /></a> &nbsp;
+<a href="https://instagram.com/nisarg_thoriya" target="blank"><img align="center" src="./assets/instagram.svg" alt="ayush_kaneria_11" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="mailto:nisarghthoriya@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="ayush_kaneria_11" height="30" width="40" /></a> &nbsp;
 </p></br> 
 
 <h3 align="left">Languages and Tools:</h3>
