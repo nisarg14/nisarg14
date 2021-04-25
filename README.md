@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nisarg</h1>
 <h3 align="center">3rd Year BTech ICT student from Ahmedabad University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarg14&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg14" /> </p>
+
 <img align="center" class="image" src="./assets/2.png" >
 
 <br />
