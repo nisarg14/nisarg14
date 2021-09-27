@@ -1,7 +1,7 @@
 <link rel="stylesheet" media="all" href="./assets/readme.css"> 
 
 <h1 align="center">Hi 👋, I'm Nisarg</h1>
-<h3 align="center">3rd Year BTech ICT student from Ahmedabad University</h3>
+<h3 align="center">Final Year BTech ICT student from Ahmedabad University</h3>
 
 
 <img align="center" class="image" src="./assets/2.png" >
